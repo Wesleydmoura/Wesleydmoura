@@ -8,7 +8,6 @@ CONTATOS:
 
 :e-mail:Wdmoura93@outlook.com <br>
 :large_blue_circle:
-<a> www.linkedin.com/in/wesleymoura93/</a>
 <br>
 <Br>
 TECNOLOGIAS :pushpin:
