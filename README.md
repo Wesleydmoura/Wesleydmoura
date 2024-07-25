@@ -2,13 +2,12 @@ Olá sou Wesley Moura 👋
 
 Desenvolvedor Full Stack, estou buscando constantemente desafios e oportunidades para aprimorar minhas habilidades técnicas e colaborar em projetos inovadores.
 
-<br> <br>📚 Atualmente estou aprendendo Python Machine Learning <br>
+<br> 📚 Atualmente estou aprendendo Python Machine Learning <br>
 
 CONTATOS: 
 Likedin:https://www.linkedin.com/in/wesley--moura/ <br>
 :e-mail:Wdmoura93@outlook.com <br>
-:large_blue_circle:
-<br>
+
 <Br>
 TECNOLOGIAS :pushpin:
 
